@@ -1,6 +1,6 @@
 # SecondProjectAng
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.<--
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2. <br/>
 Link -: https://prathmesh9860.github.io/Todo-angular/
 
 ## Development server
